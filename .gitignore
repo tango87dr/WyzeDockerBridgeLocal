@@ -1,0 +1,10 @@
+**/.DS_Store
+**/docker-compose.yml
+**/mfa_token
+**/totp
+**/.vscode
+**/tokens/
+*.pickle
+*.env
+*.pyc
+!/app/.env
